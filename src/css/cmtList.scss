@@ -1,0 +1,22 @@
+.title{
+	color:skyblue;
+	text-align: center;
+}
+
+.titleItem{
+	color:purple;
+	font-size: 12px;
+}
+.content{
+	font-size: 11px;
+}
+
+.boxItem{
+	border: 1px dashed #ccc;
+	margin: 10px;
+	padding-left: 30px;
+	box-shadow: 0 0 #ccc;
+}
+:global(.test){
+	font-style: italic;
+}
